@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "om",
+      "lastName": "singh",
+      "email": "om@gmail.com",
+      "mobile": "478923789542",
+      "fees": "5000000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
